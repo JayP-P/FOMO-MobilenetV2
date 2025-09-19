@@ -9,3 +9,8 @@ Diferente de modelos tradicionais (como o YOLO), que detectam objetos com caixas
 
 * Detecção de contagem: Para contar o número de pessoas, animais ou objetos em um ambiente.
 
+Neste projeto em específico, eu criei dois modelos FOMO MobilenetV2, o primeiro para a detecção de fogos com a precisão acima de 70%, e o segundo para a detecção de fumaça, precisão >70%. Ambos foram treinados no site edgeimpulse. 
+* Foto de um dos testes com a detecção de fogo
+<img width="1531" height="890" alt="image" src="https://github.com/user-attachments/assets/2e000503-113e-41b3-bba6-10913076699c" />
+
+
